@@ -40,7 +40,7 @@ Contributions are welcome! Feel free to submit **issues** or **pull requests**.
 ## **Author**  
 
 👤 **Your Name**  
-🔗 GitHub: https://github.com/Sahithi-Maddala (Sahithi-Maddala)
+🔗 GitHub: https://github.com/nagamani sanchana(Nagamani sanchana)
 
 ---
 
